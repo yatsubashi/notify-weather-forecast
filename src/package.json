@@ -8,5 +8,7 @@
   "license": "MIT",
   "dependencies": {},
   "scripts": {},
-  "devDependencies": {}
+  "devDependencies": {
+    "prettier": "^1.19.1"
+  }
 }
