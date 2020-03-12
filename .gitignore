@@ -76,6 +76,8 @@ typings/
 # dotenv environment variables file
 .env
 
+# AWS SAM ビルド成果物
+.aws-sam/
 
 ### OSX ###
 *.DS_Store
